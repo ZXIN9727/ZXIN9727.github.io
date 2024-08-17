@@ -120,7 +120,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-链接可以指向标题的，可以通过{# }自定义锚点
+链接可以指向标题的，可以通过`{# }`自定义锚点
 
 ```text
 这是一个自定义锚点{#锚点}
