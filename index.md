@@ -6,13 +6,13 @@ hero:
   name: "学习笔记"
   text: "hello world !"
   tagline: "good good study, day day up! "
-#  actions:
-#    - theme: brand
-#      text: Markdown Examples
-#      link: /markdown-examples
-#    - theme: alt
-#      text: API Examples
-#      link: /api-examples
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
 
 features:
   - title: HTML
