@@ -45,7 +45,8 @@ export default defineConfig({
             '/markdown/': [{
                 text: 'markDown',
                 items: [
-                    {text: 'Index', link: '/markdown/'}
+                    {text: '基础用法', link: '/markdown/'},
+                    {text: '数学公式', link: '/markdown/math'}
                 ]
             }]
         },
