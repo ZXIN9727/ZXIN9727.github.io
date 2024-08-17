@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Notes"
-  text: "A Vitepress Notes"
+  name: "学习笔记"
+  text: "good good study, day day up! "
   tagline: My great project tagline
   actions:
     - theme: brand
