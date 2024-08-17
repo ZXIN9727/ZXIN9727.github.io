@@ -24,4 +24,7 @@ features:
   - title: Markdown
     details: Markdown是一种用于创建格式化文本的轻量级标记语言。
     link: /markdown
+  - title: 双拼
+    details: 双拼是一种建立在拼音输入法基础上的输入方法,使得每个音都可以用两个按键打出。
+    link: /double-spell
 ---

@@ -48,6 +48,14 @@ export default defineConfig({
                     {text: '基础用法', link: '/markdown/'},
                     {text: '数学公式', link: '/markdown/math'}
                 ]
+            }],
+
+            '/double-spell/': [{
+                text: '双拼',
+                items: [
+                    {text: '介绍', link: '/double-spell/'},
+                    {text: '自然码', link: '/double-spell/ziran'}
+                ]
             }]
         },
 

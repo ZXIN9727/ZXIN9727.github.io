@@ -120,6 +120,21 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+链接可以指向标题的，可以通过{# }自定义锚点
+
+```text
+这是一个自定义锚点{#锚点}
+
+[跳转到链接](#链接)
+
+[跳转到自定义锚点](#锚点)
+```
+这是一个自定义锚点{#锚点}
+
+[跳转到链接](#链接)
+
+[跳转到自定义锚点](#锚点)
+
 ## 图像
 
 通过添加 `!` 并 将 `alt` 文本用 `[ ]` 括起来，可显示图像。 替换文字是等效于图像中信息的短文本。 然后将图像的链接用括号 `()`
