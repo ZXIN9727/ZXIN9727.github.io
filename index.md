@@ -21,6 +21,9 @@ features:
   - title: CSS
     details: CSS允许开发者将样式规则应用于HTML元素，以实现网页的布局和样式设计。
     link: /css
+  - title: Vue
+    details: CSS允许开发者将样式规则应用于HTML元素，以实现网页的布局和样式设计。
+    link: /vue
   - title: Markdown
     details: Markdown是一种用于创建格式化文本的轻量级标记语言。
     link: /markdown

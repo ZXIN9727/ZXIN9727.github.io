@@ -49,6 +49,13 @@ export default defineConfig({
                     {text: '数学公式', link: '/markdown/math'}
                 ]
             }],
+            '/vue/': [{
+                text: 'Vue',
+                items: [
+                    {text: '基础用法', link: '/vue/'},
+                    {text: 'API', link: '/vue/api'}
+                ]
+            }],
 
             '/double-spell/': [{
                 text: '双拼',
