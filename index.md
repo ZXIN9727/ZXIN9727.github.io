@@ -30,4 +30,10 @@ features:
   - title: 双拼
     details: 双拼是一种建立在拼音输入法基础上的输入方法,使得每个音都可以用两个按键打出。
     link: /double-spell
+  - title: JavaScript
+    details: JavaScript是一种动态的编程语言，广泛应用于网页开发中，主要用于增强网页的交互性和动态性。
+    link: /javascript  
+  - title: Java
+    details: Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程。
+    link: /java
 ---
